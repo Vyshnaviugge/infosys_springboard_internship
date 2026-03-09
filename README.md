@@ -1,18 +1,18 @@
-optimizing it support system
-📊 Customer Support Ticket Analysis Dashboard
-📌 Project Overview
+**Optimizing It Support System**
+
+📊 **Customer Support Ticket Analysis Dashboard**
+📌**Project Overview**
 
 Customer support plays a critical role in maintaining customer satisfaction and product reliability. Organizations receive large volumes of support tickets related to technical issues, billing inquiries, product problems, and refund requests. Analyzing these tickets helps organizations understand customer concerns, identify operational bottlenecks, and improve service quality.
 
 This project focuses on analyzing customer support ticket data to gain insights into ticket trends, response performance, and customer satisfaction levels. Using Power BI, an interactive dashboard was developed to visualize key support metrics and help organizations make data-driven decisions to optimize customer support operations.
 
-🎯 Problem Statement
+🎯** Problem Statement**
 
 Customer support teams often struggle to efficiently manage large numbers of service tickets. Without proper analysis, it becomes difficult to identify recurring issues, monitor response times, and evaluate customer satisfaction.
-
 The goal of this project is to analyze customer support ticket data and build a dashboard that provides insights into ticket distribution, response performance, and service efficiency. This analysis helps organizations identify problem areas, improve support workflows, and enhance overall customer experience.
 
-📂 Dataset Description
+📂**Dataset Description**
 
 The dataset contains 8470 customer support ticket records with multiple attributes describing customer information, ticket details, product information, and support performance metrics.
 
@@ -38,7 +38,7 @@ Customer Satisfaction Rating	Customer feedback rating
 
 The dataset enables analysis of customer behavior, support efficiency, and service performance trends.
 
-📊 Key Performance Indicators (KPIs)
+📊 **Key Performance Indicators (KPIs)**
 
 The dashboard focuses on the following performance metrics:
 
@@ -87,7 +87,7 @@ Shows which products generate the highest number of support tickets.
 Ticket Status Overview
 Displays the number of tickets that are open, closed, or pending.
 
-🔍 Key Insights
+🔍 **Key Insights**
 
 Technical issues represent the largest share of support tickets.
 
@@ -99,7 +99,7 @@ Faster response times are strongly associated with higher customer satisfaction 
 
 High-priority tickets require quicker resolution to maintain service quality.
 
-💡 Recommendations
+💡 **Recommendations**
 
 Based on the analysis, the following improvements are recommended:
 
@@ -113,7 +113,7 @@ Automate ticket routing and classification to improve support workflow efficienc
 
 Continuously monitor customer satisfaction metrics to enhance service quality.
 
-🛠 Tools and Technologies Used
+🛠 **Tools and Technologies Used**
 
 Power BI – Data visualization and dashboard development
 
@@ -123,6 +123,6 @@ DAX (Data Analysis Expressions) – KPI calculations
 
 CSV Dataset – Data source
 
-📌 Project Outcome
+📌 **Project Outcome**
 
 This project demonstrates how data analytics and visualization tools can be used to monitor customer support performance, identify operational inefficiencies, and improve overall customer service strategies through data-driven insights.
